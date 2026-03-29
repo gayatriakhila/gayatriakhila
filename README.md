@@ -1,10 +1,10 @@
 <h1 align="center">👩‍💻Gayatri Akhila Appala</h1>
 <h3 align="center">Aspiring Software Developer | AI & ML Enthusiast</h3>
 <p align="center">
-  <a href="mailto:gayatriakhila05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/gayatri-akhila"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/profile/236K1A4204"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
-  <a href="https://github.com/gayatriakhila"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/></a>
+  <a href="mailto:gayatriakhila05@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/gayatri-akhila" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/profile/236K1A4204" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+  <a href="https://github.com/gayatriakhila" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/></a>
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=for-the-badge"/>
