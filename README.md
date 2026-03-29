@@ -6,6 +6,9 @@
   <a href="https://www.hackerrank.com/profile/236K1A4204"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
   <a href="https://github.com/gayatriakhila"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/></a>
 </p>
+<p align="center">
+<img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=for-the-badge"/>
+</p>
 
 ## 🚀 About Me
 🎓 **B.Tech CSE (AI & ML)** —Ideal Institute Of Technology  
